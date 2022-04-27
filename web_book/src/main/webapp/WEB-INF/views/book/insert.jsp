@@ -36,7 +36,7 @@
 </form>
 <script src="/resources/js/input.js"></script>
 <script>
-	let error = ${error};
+	let error = '${error}';
 	if(error!=''){
 		alert(error);
 	}
